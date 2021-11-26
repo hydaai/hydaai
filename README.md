@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ![Visitor Count](https : //profile-counter.glitch.me/{hydaai}/count.svg)
+
 
 ### Connect with me:
 [<img align="left" alt="ai.hyda | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/instagram.svg"/>][instagram]
