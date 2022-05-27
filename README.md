@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 ### Connect with me:
 [<img align="left" alt="ai.hyda | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="Aisyah Zahrotul Hidayah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Aisyah Zahrotul Hidayah | Medium" width="22px" src="(https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg)"/>][Medium]
-[<img align="left" alt="Aisyah Zahrotul Hidayah | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/blogger.svg"/>][Blogger]
+[<img align="left" alt="ai.z.hida | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/medium.svg"/>][Medium]
+[<img align="left" alt="aizhida | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/blogger.svg"/>][Blogger]
 
-<br />
-<br />
 <br />
 <br />
 
@@ -33,7 +31,6 @@ Here are some ideas to get you started:
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<br />
 <br />
 <br />
 
