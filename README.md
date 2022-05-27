@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-[<img align="left" alt="ai.hyda | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="Aisyah Zahrotul Hidayah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="ai.hyda | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Aisyah Zahrotul Hidayah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Aisyah Zahrotul Hidayah | Medium" width="22px" src="(https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg)"/>][Medium]
+[<img align="left" alt="Aisyah Zahrotul Hidayah | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/blogger.svg"/>][Blogger]
 
+<br />
+<br />
 <br />
 <br />
 
@@ -31,8 +35,12 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+<br />
 
 <img align="left" alt="Aisyah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hydaai&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/ai.hyda
-[linkedin]: https://www.linkedin.com/in/aisyah-zahrotul-hidayah/
+[linkedin]: https://www.linkedin.com/in/aizhida/
+[Medium]: https://medium.com/@ai.z.hida
+[Blogger]: https://aizhida.blogspot.com/
+
